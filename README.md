@@ -1,5 +1,5 @@
 # Resynthesizer-LiquidRescale-GIMP-Plugin
-This bash script is designed to ensure the proper installation, update and installation of GIMP (GNU Image Manipulation Program) on Linux-based operating systems. The script uninstalls the pre-installed GIMP application, installs Flatpak, installs GIMP via Flatpak and installs the necessary additional GIMP plugins (Resynthesizer and LiquidRescale).
+This bash script is designed to ensure the proper installation, update and installation of GIMP (GNU Image Manipulation Program) on Linux (apt/dep) based operating systems. The script uninstalls the pre-installed GIMP application, installs Flatpak, installs GIMP via Flatpak and installs the necessary additional GIMP plugins (Resynthesizer and LiquidRescale).
 
 # Main Features:
 Root Authorization Check: Checks that the script should be run with root (administrator) privileges. If it is not run with root privileges, the user will be notified to run it with the correct command.
