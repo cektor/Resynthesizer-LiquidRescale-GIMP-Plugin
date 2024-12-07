@@ -30,7 +30,7 @@ You can use the script by running it from a terminal.
 You must have root (administrator) privileges for the script to work properly. Therefore, you need to run the script with the sudo command.
 
 
-#Install Git Clone 
+# Install Git Clone 
 
 Github Package Must Be Installed On Your Device.
 ```bash
